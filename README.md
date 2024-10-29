@@ -2,7 +2,7 @@
 
 ### About Me ✨
 
-With over 10 years of experience as a **Software Engineer** specializing in **front-end** and **mobile development**, I bring a strong track record in building **scalable, high-performance applications**. Although my expertise leans toward **front-end development**, I have solid **full-stack** experience, with **TypeScript** and mainstream frameworks like **React**, **Vue**, **Svelte**, and **Angular** on the front end, alongside **Node.js** and **Golang** on the backend. I also work with **Dart/Flutter** and **React Native** for cross-platform mobile apps.
+With over 10 years of experience as a **Software Engineer** specializing in **front-end** and **mobile development**, I bring a strong track record in building **scalable, high-performance applications**. Although my expertise leans toward **front-end development**, I have solid **full-stack** experience, with **TypeScript** and mainstream frameworks like **React**, **Vue**, **Svelte**, and **Angular** on the front end, alongside **Node.js**, **Golang** (and a bit of **Python**) on the backend. I also work with **Dart/Flutter** and **React Native** for cross-platform mobile apps.
 
 Passionate about creating **user-centric UIs**, enhancing **development practices**, and fostering **collaboration**, I've successfully scaled and optimized applications in **cloud environments** like **AWS**. Additionally, I am a committed **community builder**, having led a **front-end community of practice** for nearly three years to drive **best practices**, **knowledge sharing**, and **cross-team collaboration**.
 
@@ -29,7 +29,7 @@ Passionate about creating **user-centric UIs**, enhancing **development practice
 - **Frontend**: **React** (expert), **TypeScript** (proficient), **Vue**, **Svelte**, **Angular**, **Storybook**, **Tailwind**, **CSS/SASS**
 - **Full-Stack Frameworks**: **Next.js**
 - **Mobile Development**: **React Native**, **Flutter**, **Ionic React** with experience in **cross-platform** app development
-- **Backend**: **Node.js**, **Golang**, experience building **scalable backend services** (working knowledge of **distributed/event-based systems** and **message queues** like **Kafka**)
+- **Backend**: **Node.js**, **Golang**, **Python**, experience building **scalable backend services** (working knowledge of **distributed/event-based systems** and **message queues** like **Kafka**)
 - **Databases & Caching**: **SQL** (PostgreSQL), **NoSQL** (DynamoDB, MongoDB), **Caching** (Redis)
 - **Cloud & DevOps**: **AWS** (Serverless, CDK), **Docker**, **Terraform**, **CircleCI/GitHub Actions**
 - **Testing**: **Jest/Vitest**, **Cypress**, **Playwright**
