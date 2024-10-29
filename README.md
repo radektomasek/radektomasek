@@ -10,7 +10,7 @@ Passionate about creating **user-centric UIs**, enhancing **development practice
 
 - **[OVO Charge Anytime](https://www.ovoenergy.com/electric-cars/charge-anytime) 🔋🚗** - Played a pivotal role in developing and scaling this EV charging app from a handful of users to over 20,000. My responsibilities included implementing features to enhance user experience (such as simplifying the login process) and optimizing charging capabilities for various EV models. Built in Dart/Flutter, the app became a customer favorite and [won a National Technology Award in two categories: Innovation of the Year and Smart Tech Project of the Year](https://nationaltechnologyawards.co.uk/winners24.php) in the United Kingdom.
 
-- **[Kanban Task Management](https://github.com/radektomasek/fm-kanban-task-management) 🚧** - In my free time, I enjoy building challenges from [Frontend Mentor](https://www.frontendmentor.io), ranging from basic HTML/CSS tasks to more complex projects. This Kanban Task Management app is one of their most [challenging projects](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB). While it’s still a work in progress, I am actively implementing advanced frontend patterns to ensure a scalable and maintainable architecture.
+- **[Kanban Task Management](https://github.com/radektomasek/fm-kanban-task-management) 🚧** - In my free time, I enjoy building challenges from [Frontend Mentor](https://www.frontendmentor.io), ranging from basic HTML/CSS tasks to more complex projects. This Kanban Task Management app is one of their most [challenging projects](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB). While it's still a work in progress, I am actively implementing advanced frontend patterns to ensure a scalable and maintainable architecture.
 
 ### Leadership 🌟
 
@@ -22,7 +22,7 @@ Passionate about creating **user-centric UIs**, enhancing **development practice
 
 - **Career Development:** I aim to deepen my expertise in backend development, focusing on building robust, scalable services and working with distributed systems. By strengthening my backend skills, I look forward to taking on more complex, end-to-end project ownership and contributing to architecture-level decisions.
 
-- **Continuous Learning:** I’m committed to expanding my knowledge of cloud platforms, with a particular focus on gaining in-depth experience with **Google Cloud Platform (GCP)** and exploring **Microsoft Azure**. My goal is to build a versatile skill set in multi-cloud solutions, enabling me to leverage the best tools and practices across different environments.
+- **Continuous Learning:** I'm committed to expanding my knowledge of cloud platforms, with a particular focus on gaining in-depth experience with **Google Cloud Platform (GCP)** and exploring **Microsoft Azure**. My goal is to build a versatile skill set in multi-cloud solutions, enabling me to leverage the best tools and practices across different environments.
 
 ### Technical Skills 🛠️
 
