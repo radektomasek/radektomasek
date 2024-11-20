@@ -14,7 +14,7 @@ Passionate about creating **user-centric UIs**, enhancing **development practice
 
 ### Leadership 🌟
 
-- **Kaluza/OVO Frontend Community of Practice:** For nearly three years, I led and nurtured a thriving community of practice focused on frontend development. While frontend topics were our main focus, we also covered a broad range of subjects through practical workshops and collaborative discussions. Some examples of my contribution can be viewed [here](https://drive.google.com/drive/folders/1oRaqAO3B7y5vyuimf3T_bcfkTDYjRVMB?usp=sharing).
+- **Kaluza/OVO Frontend Community of Practice:** For nearly three years, I led and nurtured a thriving community of practice focused on frontend development. While frontend topics were our main focus, we also covered a broad range of subjects through practical workshops and collaborative discussions. If you are interested in discovering more about my contribution, feel free to check the [frontend-community-workshops-archive](https://github.com/radektomasek/frontend-community-workshops-archive) repository with some concrete examples.
 
 - **Hackathons:** I have participated in multiple hackathons, often taking the initiative to build and lead teams. In several instances, we achieved first place by fostering collaboration, efficient workflows, and innovation under tight deadlines.
 
