@@ -26,13 +26,13 @@ Passionate about creating **user-centric UIs**, enhancing **development practice
 
 ### Technical Skills 🛠️
 
-- **Frontend**: **React** (expert), **TypeScript** (proficient), **Vue**, **Svelte**, **Angular**, **Storybook**, **Tailwind**, **CSS/SASS**
-- **Full-Stack Frameworks**: **Next.js**
-- **Mobile Development**: **React Native**, **Flutter**, **Ionic React** with experience in **cross-platform** app development
-- **Backend**: **Node.js**, **Golang**, **Python**, experience building **scalable backend services** (working knowledge of **distributed/event-based systems** and **message queues** like **Kafka**)
-- **Databases & Caching**: **SQL** (PostgreSQL), **NoSQL** (DynamoDB, MongoDB), **Caching** (Redis)
-- **Cloud & DevOps**: **AWS** (Serverless, CDK), **Docker**, **Terraform**, **CircleCI/GitHub Actions**
-- **Testing**: **Jest/Vitest**, **Cypress**, **Playwright**
+- **Frontend**: **React** (expert), **TypeScript** (proficient), **Vue**, **Svelte**, **Angular**, **Storybook**, **Tailwind**, **CSS/SASS**.
+- **Full-Stack Frameworks**: **Next.js**.
+- **Mobile Development**: **Flutter**, **React Native**, **Ionic React** with experience in **cross-platform** app development.
+- **Backend**: **Node.js**, **Golang**, **Python**, experience building **scalable backend services** (working knowledge of **distributed/event-based systems** and **message queues** like **Kafka**).
+- **Databases & Caching**: **SQL** (mostly PostgreSQL), **NoSQL** (DynamoDB, MongoDB), **Caching** (Redis).
+- **Cloud & DevOps**: **AWS** (Serverless, CDK), **Docker**, **Terraform**, **CircleCI/GitHub Actions**.
+- **Testing**: **Jest/Vitest**, **Cypress**, **Playwright**.
 
 ### Connect with Me 📬
 
