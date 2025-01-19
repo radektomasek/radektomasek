@@ -26,7 +26,7 @@ Passionate about creating **user-centric UIs**, enhancing **development practice
 
 ### Technical Skills 🛠️
 
-- **Frontend**: **React** (expert), **TypeScript** (proficient), **Vue**, **Svelte**, **Angular**, **Storybook**, **Tailwind**, **CSS/SASS**.
+- **Frontend**: **React**, **TypeScript**, **Storybook**, **Tailwind**, (working knowledge of other frameworks like **Vue**, **Svelte**, **Angular**, and **Alpine.js**).
 - **Full-Stack Frameworks**: **Next.js**.
 - **Mobile Development**: **Flutter**, **React Native**, **Ionic React** with experience in **cross-platform** app development.
 - **Backend**: **Node.js**, **Golang**, **Python**, experience building **scalable backend services** (working knowledge of **distributed/event-based systems** and **message queues** like **Kafka**).
